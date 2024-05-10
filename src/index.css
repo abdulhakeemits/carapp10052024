@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto:wght@300;400;500;700&display=swap");
+@font-face {
+  font-family: 'Inter';
+    src: url('assets/fonts/Inter-Regular.eot');  
+    src: url('assets/fonts/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/Inter-Regular.woff2') format('woff2'),
+        url('assets/fonts/Inter-Regular.woff') format('woff'),
+        url('assets/fonts/Inter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.mantine-1682jzp {
+  padding: 0 !important;
+}
+
+.mantine-1lfzd41 {
+  margin: 0 !important;
+}
+.mantine-1h0gzmk {
+  margin: 0 !important;
+}
+
+.mantine-1yy5jtt {
+  padding-top: 0rem;
+  text-align: right;
+}
+.mantine-pqoqxb{
+  padding-top: 0rem;
+
+}
+.mantine-1ryt1ht {
+  font-family: 'Inter';
+}
+/* span.mantine-Text-root.mantine-pf1qbk {
+  font-size: ;
+} */
+
+/* .mantine-14xws4s{
+  padding-top: 0px;
+} */
+.mantine-14rjip1{
+  width: 50%;
+  height: 50%;
+}
+.mantine-1jggmkl{
+  justify-content: center;
+}
+.closeIcon{
+ margin-left: 100px;
+}
+.mantine-1vn5afm{
+  font-family: 'Merriweather';
+  font-weight: 600px;
+  font-size: 50px;
+  padding-top: 100px;
+}
+.mantine-l9bf5e {
+  padding-left: 5.875rem;
+padding-top: 2.625rem;
+padding-bottom: 2.625rem;
+
+}
+.mantine-ozvtje{
+  gap:1.5rem;
+}
+/* .mantine-BackgroundImage-root{
+  height: 4rem;
+  background-position: right bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+} */
+.mantine-BackgroundImage-root {
+  background-position: bottom right;
+  background-size: 75%;
+  background-repeat: no-repeat;
+  height: 561px;
+}
+.mantine-z65jui {
+  max-width: 1rem;
+}
+.mantine-i8injl{
+  font-size: 13px;
+}
+.mantine-mvg7ns{
+  font-weight: 400;
+  font-size: 13px;
+}
+.mantine-1lxroks{
+  font-weight: 400;
+  font-size: 13px;
+
+}
+.mantine-1y6z0sp {
+  height: 47px;
+  width: 100px;
+}
+.searcColor{
+  color: black;
+}
+.mantine-3v3yf2 {
+  width: 683px;
+}
+.abt-future{
+  color: #EAB720;
+}
+.abt_story{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 78%;
+}
+.mantine-1vn5afm {
+  width: 92%;
+
+}
+.mantine-1vn5afm {
+  font-family: 'Merriweather';
+  font-weight: 600px;
+  font-size: 50px;
+  padding-top: 0px;
+}
+.mantine-1qdyxyy {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 64.125rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.mantine-1vn5afm {
+  line-height: 1.2;
+}
+
